@@ -1,0 +1,7 @@
+name: PrefixOption
+main: olj.po.PrefixOptionPlugin
+version: 0.1-ALPHA
+author: [OlJeK]
+depend:
+  - SpigotAPI
+  - PermissionsEx

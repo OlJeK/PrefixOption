@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PrefixOption:jar">
+    <output-path>$USER_HOME$/Desktop/Libs/server/1.12/plugins</output-path>
+    <root id="archive" name="PrefixOption.jar">
+      <element id="module-output" name="PrefixOption" />
+    </root>
+  </artifact>
+</component>
